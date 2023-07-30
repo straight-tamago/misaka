@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>リダイレクトページ</title>
+</head>
+<body>
+    <script>
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+        const redirectUrl = "misaka://opentweak="+urlParams.get('repo')+"&"+urlParams.get('tweak')
+        if (redirectUrl) {
+            window.location.href = redirectUrl;
+        }
+    </script>
+</body>
+</html>
