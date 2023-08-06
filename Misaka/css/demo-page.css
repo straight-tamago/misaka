@@ -1,0 +1,95 @@
+::-webkit-scrollbar-thumb {
+    background: #37474F;
+}
+
+.mt120 {
+    margin-top: 120px;
+}
+
+.demos {
+    background-color: rgba(238, 247, 251, 1);
+}
+
+.demos .demo-screen {
+    height: 500px;
+    overflow-y: scroll;
+    padding: 0;
+    -webkit-box-shadow: 0 0 35px rgba(0, 0, 0, .1);
+    box-shadow: 0 0 35px rgba(0, 0, 0, .1);
+    border-radius: 4px;
+}
+
+.demos .demo-screen img {
+    width: 100%;
+}
+
+.space-animation-demo .empty {
+    color: rgb(214, 223, 227);
+}
+
+.phones-choose {
+    padding: 0;
+    display: inline-block;
+}
+
+.demos .phones-choose li a {
+    font-size: 12px;
+}
+
+.demos .phones-choose li {
+    text-align: center;
+    list-style-type: none;
+    display: inline-block;
+    width: 100px;
+    padding: 15px 0;
+    text-align: center;
+    border-radius: 4px;
+    background-color: rgba(247, 250, 251, 1);
+    margin-right: 15px;
+    position: relative;
+    bottom: -20px;
+}
+
+.demos .phones-choose li:hover {
+    background-color: rgb(242, 245, 247);
+    background-color: rgba(248, 251, 252, 1);
+    box-shadow: 0 0 35px rgba(0, 0, 0, .1);
+}
+
+.demos .phones-choose li a img {
+    width: 40px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.demos .phones-choose li a:hover {
+    color: rgb(120, 144, 156);
+}
+
+
+.demo-card {
+    background-color: background-color: rgba(250, 253, 254, 1);
+    padding: 15px;
+    -webkit-box-shadow: 0 0 35px rgba(0, 0, 0, .1);
+    box-shadow: 0 0 35px rgba(0, 0, 0, .1);
+    border-radius: 4px;
+}
+
+.demo-text {
+    padding: 15px 15px 15px 30px;
+}
+
+.demo-text .empty {
+    opacity: .4;
+}
+
+.anim-head-text {
+    padding: 60px 0 60px;
+}
+
+.bottom-ilust {
+    background-color: rgba(238, 247, 251, 1);
+    background-image: url(../images/demo-bg.png);
+    background-size: cover;
+    height: 400px;
+}

@@ -1,0 +1,58 @@
+/* -------------------------------------------
+
+	Name: 		App ollo
+	Author:		"Miller Themes" Nazar Miller
+    Support:    miller.themes.inbox@gmail.com
+	   		   
+--------------------------------------------- */
+
+.preloader,
+.download,
+.video,
+.stats,
+.features .future h4 i,
+header,
+.theme-background,
+.team-item,
+.panel-heading,
+.waves .circle,
+.scrolled,
+.blog-item,
+.color,
+.optimal,
+.masc,
+.header-masc,
+.pagination .active a {
+    background: linear-gradient(45deg, hsla(262, 98%, 41%, 1) 0%, hsla(262, 98%, 41%, 0) 70%),
+    linear-gradient(135deg, hsla(304, 98%, 50%, 1) 10%, hsla(304, 98%, 50%, 0) 80%),
+    linear-gradient(225deg, hsla(274, 97%, 41%, 1) 10%, hsla(274, 97%, 41%, 0) 80%),
+    linear-gradient(315deg, hsla(261, 92%, 41%, 1) 100%, hsla(261, 92%, 41%, 0) 70%);
+}
+
+@media (max-width: 992px) {
+    .navbar,
+    .navbar-collapse {
+        background: linear-gradient(45deg, hsla(262, 98%, 41%, 1) 0%, hsla(262, 98%, 41%, 0) 70%),
+        linear-gradient(135deg, hsla(304, 98%, 50%, 1) 10%, hsla(304, 98%, 50%, 0) 80%),
+        linear-gradient(225deg, hsla(274, 97%, 41%, 1) 10%, hsla(274, 97%, 41%, 0) 80%),
+        linear-gradient(315deg, hsla(261, 92%, 41%, 1) 100%, hsla(261, 92%, 41%, 0) 70%);
+    }
+}
+
+h4 .color {
+    background-color: hsla(262, 98%, 41%, 1);
+}
+
+::-webkit-scrollbar-thumb {
+    background: hsla(262, 98%, 41%, 1);
+}
+
+/*** transparent gradient ***/
+
+.header-masc,
+.masc {
+    background: linear-gradient(45deg, hsla(262, 98%, 41%, .5) 0%, hsla(262, 98%, 41%, 0) 70%),
+    linear-gradient(135deg, hsla(304, 98%, 50%, .5) 10%, hsla(304, 98%, 50%, 0) 80%),
+    linear-gradient(225deg, hsla(274, 97%, 41%, .5) 10%, hsla(274, 97%, 41%, 0) 80%),
+    linear-gradient(315deg, hsla(261, 92%, 41%, .5) 100%, hsla(261, 92%, 41%, 0) 70%);
+}
