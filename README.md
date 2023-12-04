@@ -35,7 +35,7 @@ Discord Support
 
 • Misaka Support✨ **(Sever 2)**: [Join Here](https://discord.gg/mVrPxY3X6W)
 
-Download _Misaka_
+Download
 ======
 <h3>You can download and install the latest version of misaka.ipa here: </h3>
 
