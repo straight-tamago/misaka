@@ -100,6 +100,7 @@ Repository Owners
 | [ChromiumCandy](https://twitter.com/ChromiumCandy) | Applicott |
 | [YangJiii](https://twitter.com/duongduong0908) | YangJiii 🍉 2.0 Repo's |
 | [Hùng Anhh ❤️](https://www.facebook.com/profile.php?id=100013250296791&mibextid=LQQJ4d) | Hùng Anhh ♡ |
+| [RomLayVN](https://t.me/romlayvn) | Ròm Lầy VN |
 
 
  <li>Updating more tweaks...</li>
