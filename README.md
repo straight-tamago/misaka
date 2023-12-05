@@ -105,9 +105,9 @@ Repository Owners
 
 • Author: [Hùng Anhh ❤️](https://www.facebook.com/profile.php?id=100013250296791&mibextid=LQQJ4d): Repository **Hùng Anhh ♡**;
 
-| Command | Description |
+| Author | Repository |
 | --- | --- |
-| git status | List all new or modified files |
+| [HackZy](https://twitter.com/hackzy01) | Aurora |
 | git diff | Show file differences that haven't been staged |
 
 
