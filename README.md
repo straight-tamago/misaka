@@ -101,6 +101,8 @@ Repository Owners
 | [YangJiii](https://twitter.com/duongduong0908) | YangJiii 🍉 2.0 Repo's |
 | [Hùng Anhh ❤️](https://www.facebook.com/profile.php?id=100013250296791&mibextid=LQQJ4d) | Hùng Anhh ♡ |
 | [RomLayVN](https://t.me/romlayvn) | Ròm Lầy VN |
+| [doraa](https://twitter.com/d0ra727) | MeowRepo :3 #DMATK-KK-YH |
+| [tyler1029](https://discord.gg/bbJAqj7np5) | tyler10290 |
 
 
  <li>Updating more tweaks...</li>
