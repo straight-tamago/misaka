@@ -99,6 +99,10 @@ Repository Owners
 
 • Author: [Phuc Do](https://twitter.com/dobabaophuc): Repository **PhucDo 3.0 ✨**;
 
+• Author: [ChromiumCandy](https://twitter.com/ChromiumCandy): Repository **Applicott**;
+
+• Author: [YangJiii](https://twitter.com/duongduong0908): Repository **YangJiii 🍉 2.0 Repo's**;
+
  <li>Updating more tweaks...</li>
  <li>Be careful, misaka application is FREE, don't be fooled by scamers!</li>
 
