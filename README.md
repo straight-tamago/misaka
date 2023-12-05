@@ -94,6 +94,7 @@ Repository Owners
 ======
 | Author | Repository |
 | --- | --- |
+| [misakaProject](https://discord.gg/KSExeZVAGX) | misaka.app |
 | [HackZy](https://twitter.com/hackzy01) | Aurora |
 | [EPOS](https://twitter.com/RealEPOS) | EPOSbox |
 | [Phuc Do](https://twitter.com/dobabaophuc) | PhucDo 3.0 ✨ |
