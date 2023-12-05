@@ -111,6 +111,5 @@ ScreenShots
 
 [misakaProject](https://straight-tamago.github.io/misaka/Misaka/)
 =============
-
+This README.md was created by [Phuc Do](https://twitter.com/dobabaophuc). 
 © misakaProject All Right Reserved.
-This README.md was created by [Phuc Do](https://twitter.com/dobabaophuc).
