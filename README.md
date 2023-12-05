@@ -128,6 +128,9 @@ ScreenShots
 
 [misakaProject](https://straight-tamago.github.io/misaka/Misaka/)
 =============
+License information for the libraries used is listed within the app.
+
+
 This README.md was created by [Phuc Do](https://twitter.com/dobabaophuc). 
 
 © misakaProject All Right Reserved.
