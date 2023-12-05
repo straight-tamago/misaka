@@ -39,7 +39,7 @@ Download
 ======
 <h3>You can download and install the latest version of misaka.ipa here: </h3>
 
-• [Github Release](https://github.com/straight-tamago/misaka/releases/tag/3.2.8)
+• [Github Release](https://github.com/straight-tamago/misaka/releases/latest)
 
 **Notes:** misaka is **100% FREE** and you can install it via AltStore, Sideloadly or TrollStore, etc which is also **FREE**!
 
