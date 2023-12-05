@@ -101,9 +101,9 @@ Repository Owners
 
 • Author: [ChromiumCandy](https://twitter.com/ChromiumCandy): Repository **Applicott**;
 
-• Author: [ChromiumCandy](https://twitter.com/ChromiumCandy): Repository **Applicott**;
+• Author: [YangJiii](https://twitter.com/duongduong0908): Repository **YangJiii 🍉 2.0 Repo's**;
 
-• Author: [Hùng Anhh ❤️]([https://twitter.com/duongduong0908](https://www.facebook.com/profile.php?id=100013250296791&mibextid=LQQJ4d)): Repository **Hùng Anhh ♡**;
+• Author: [Hùng Anhh ❤️](https://www.facebook.com/profile.php?id=100013250296791&mibextid=LQQJ4d): Repository **Hùng Anhh ♡**;
 
  <li>Updating more tweaks...</li>
  <li>Be careful, misaka application is FREE, don't be fooled by scamers!</li>
