@@ -105,6 +105,12 @@ Repository Owners
 
 • Author: [Hùng Anhh ❤️](https://www.facebook.com/profile.php?id=100013250296791&mibextid=LQQJ4d): Repository **Hùng Anhh ♡**;
 
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+
  <li>Updating more tweaks...</li>
  <li>Be careful, misaka application is FREE, don't be fooled by scamers!</li>
 
