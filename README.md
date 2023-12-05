@@ -44,7 +44,7 @@ Download
 **Notes:** misaka is **100% FREE** and you can install it via AltStore, Sideloadly or TrollStore, etc which is also **FREE**!
 
 
-TrollStore Installer
+TrollStore Installer (misaka)
 ======
 https://ios.cfw.guide/installing-trollhelper-misaka/
 
