@@ -92,23 +92,14 @@ Private Testers
 
 Repository Owners
 ======
-
-• Author: [HackZy](https://twitter.com/hackzy01): Repository **Aurora**;
-
-• Author: [EPOS](https://twitter.com/RealEPOS): Repository **EPOSbox**;
-
-• Author: [Phuc Do](https://twitter.com/dobabaophuc): Repository **PhucDo 3.0 ✨**;
-
-• Author: [ChromiumCandy](https://twitter.com/ChromiumCandy): Repository **Applicott**;
-
-• Author: [YangJiii](https://twitter.com/duongduong0908): Repository **YangJiii 🍉 2.0 Repo's**;
-
-• Author: [Hùng Anhh ❤️](https://www.facebook.com/profile.php?id=100013250296791&mibextid=LQQJ4d): Repository **Hùng Anhh ♡**;
-
 | Author | Repository |
 | --- | --- |
 | [HackZy](https://twitter.com/hackzy01) | Aurora |
-| git diff | Show file differences that haven't been staged |
+| [EPOS](https://twitter.com/RealEPOS) | EPOSbox |
+| [Phuc Do](https://twitter.com/dobabaophuc) | PhucDo 3.0 ✨ |
+| [ChromiumCandy](https://twitter.com/ChromiumCandy) | Applicott |
+| [YangJiii](https://twitter.com/duongduong0908) | YangJiii 🍉 2.0 Repo's |
+| [Hùng Anhh ❤️](https://www.facebook.com/profile.php?id=100013250296791&mibextid=LQQJ4d) | Hùng Anhh ♡ |
 
 
  <li>Updating more tweaks...</li>
