@@ -107,6 +107,8 @@ Repository Owners
 | [DR.Themes](https://x.com/UAE_AD1001) | DR.Themes |
 | [doraa](https://twitter.com/d0ra727) | MeowRepo :3 #DMATK-KK-YH |
 | [tyler1029](https://discord.gg/bbJAqj7np5) | tyler10290 |
+| [Coolwcat](https://twitter.com/coolwcat) | Coolwcat |
+| [MR X](https://twitter.com/mattiaskl) | MR X's Repo |
 
 
  <li>Updating more tweaks...</li>
