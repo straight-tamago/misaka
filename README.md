@@ -1,52 +1,66 @@
 <p align="left">
-  <img align="left" height="120" src="https://cdn.discordapp.com/attachments/1157757093097521162/1181224754993184848/App_Store-removebg-preview.png" alt="misaka" style="float: left; border-radius: 10px;"/>
+  <img align="left" height="175" src="https://cdn.discordapp.com/attachments/1157757093097521162/1181224754993184848/App_Store-removebg-preview.png" alt="misaka" style="float: left; border-radius: 10px;"/>
 </p>
-<h3 align="right">Misaka - iOS customization tool using MDC/KFD</h3> 
-<div class="clear"></div>
 
-<p  align="right" >
-  <strong><a href="https://bento.me/straight-tamago">by straight-tamago</a></strong>
-</p>
+# Misaka
+iOS customisation tool for KFD & MDC
+<div>
+  <a href="https://github.com/straight-tamago/misaka/releases"><img src="https://img.shields.io/github/downloads/straight-tamago/misaka/total?color=d774d5" /></a>
+  <a href="https://github.com/straight-tamago/misaka/releases/latest"><img src="https://img.shields.io/github/v/release/straight-tamago/misaka?color=d774d5" /></a>
+  <a href="https://bento.me/straight-tamago"><img src="https://img.shields.io/static/v1?style=social&message=@straight-tamago&color=768CFF&logo=X&logoColor=000000&label=" /></a>
+</div>
 <div class="clear"></div>
 
 #
 About
 ======
+The purpose of this application is to give iPhone users the ability to customise their phones without a jailbreak.
 
-• Application Misaka created to change your iphone without Jailbreak.
+At this time we have over 24 default repositories and more than 400 tweaks available.
 
-• Currently we have more than 24 default repositories and more than 400 tweaks already available.
+*Misaka is offered at no charge if somebody tried to sell it to you, report it*
+#
+Versions Supported
+======
+| iOS Versions | MDC | KFD |
+| - | - | - |
+| 15.0 - 15.7.1 | ✓ | - |
+| 15.7.2 - 15.7.6 | - | ✓ |
+| 16.0 - 16.1.2 | ✓ | - |
+| 16.2 - 16.6 beta 1 | - | ✓ |
+| 17.0 & up | - | - |
 
-• Versions supported on the Misaka app:
+17.0 & up can use PiP tweaks
 
-    IOS 15.0 - IOS 15.7.1 (MDC)
-
-    IOS 16 - IOS 16.1.2 (MDC)
-
-    IOS 16.2 - IOS 16.6 Beta 1 (KFD)
-
-    IOS 17.0 or higher (No Exploit)
-
-Discord Support
-=======
-<h3>If you need help, ask here:</h3>
-
-• Misaka Support✨ **(Sever 1)**: [Join Here](https://discord.gg/KSExeZVAGX)
-
-• Misaka Support✨ **(Sever 2)**: [Join Here](https://discord.gg/mVrPxY3X6W)
 
 Download
 ======
-<h3>You can download and install the latest version of misaka.ipa here: </h3>
+<h3>You can download the latest version of misaka from here:</h3>
 
-• [Github Release](https://github.com/straight-tamago/misaka/releases/latest)
+[Download IPA Here](https://github.com/straight-tamago/misaka/releases/latest)
 
-**Notes:** misaka is **100% FREE** and you can install it via AltStore, Sideloadly or TrollStore, etc which is also **FREE**!
+*Misaka is available at no cost, you can install it through AltStore, Sideloadly or TrollStore*
 
+Screenshots
+==========
 
-How to install TrollStore using misaka (official)
+<p align="left">
+  <img src="https://media.discordapp.net/attachments/1157757093097521162/1181245992822128640/out.png" alt="misaka" width="MISAKA" height="600"/>
+</p>
+
+Installing TrollStore with misaka
 ======
-https://ios.cfw.guide/installing-trollhelper-misaka/
+[Official Guide](https://ios.cfw.guide/installing-trollhelper-misaka/)
+
+
+Support
+=======
+**If you need any help, ask us on Discord:**
+
+• Misaka Support ✨ **(Sever 1)**: [Join](https://discord.gg/KSExeZVAGX)
+
+• Misaka Support ✨ **(Sever 2)**: [Join](https://discord.gg/mVrPxY3X6W)
+
 
 Contributors
 ======
@@ -95,7 +109,7 @@ Private Testers
 
 • [Sugiuta](https://twitter.com/sugiuta): Repository & Tweaks;
 
-Repository Owners
+Repository Maintainers
 ======
 | Author | Repository |
 | --- | --- |
@@ -115,22 +129,11 @@ Repository Owners
 | [Coolwcat](https://twitter.com/coolwcat) | Coolwcat |
 | [MR X](https://twitter.com/mattiaskl) | MR X's Repo |
 
-
- <li>Updating more tweaks...</li>
- <li>Be careful, misaka application is FREE, don't be fooled by scamers!</li>
-
-ScreenShots
-==========
-
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1157757093097521162/1181245992822128640/out.png" alt="misaka" width="MISAKA" height="600"/>
-</p>
-
-[misakaProject](https://straight-tamago.github.io/misaka/Misaka/)
+misakaProject
 =============
 License information for the libraries used is listed within the app.
 
 
-This README.md was created by [Phuc Do](https://twitter.com/dobabaophuc). 
+This README.md was created by [Phuc Do](https://twitter.com/dobabaophuc) and [HackZy](https://twitter.com/hackzy01). 
 
-© misakaProject All Right Reserved.
+© misakaProject 2023 All Right Reserved.
