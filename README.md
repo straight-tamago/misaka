@@ -18,6 +18,7 @@ The purpose of this application is to give iPhone users the ability to customise
 
 At this time we have over 24 default repositories and more than 400 tweaks available.
 
+*Misaka is offered at no charge if somebody tried to sell it to you, report it*
 #
 Versions Supported
 ======
@@ -34,11 +35,11 @@ Versions Supported
 
 Download
 ======
-<h3>You can download the latest version of misaka from here: </h3>
+<h3>You can download the latest version of misaka from here:</h3>
 
 [Download IPA Here](https://github.com/straight-tamago/misaka/releases/latest)
 
-*Misaka is available at no cost, and you can install it through AltStore, Sideloadly or TrollStore*
+*Misaka is available at no cost, you can install it through AltStore, Sideloadly or TrollStore*
 
 Screenshots
 ==========
@@ -47,19 +48,19 @@ Screenshots
   <img src="https://media.discordapp.net/attachments/1157757093097521162/1181245992822128640/out.png" alt="misaka" width="MISAKA" height="600"/>
 </p>
 
+Installing TrollStore with misaka
+======
+[Official Guide](https://ios.cfw.guide/installing-trollhelper-misaka/)
 
-Discord Support
+
+Support
 =======
-<h3>If you need any help, ask us here:</h3>
+**If you need any help, ask us on Discord:**
 
 • Misaka Support ✨ **(Sever 1)**: [Join](https://discord.gg/KSExeZVAGX)
 
 • Misaka Support ✨ **(Sever 2)**: [Join](https://discord.gg/mVrPxY3X6W)
 
-
-How to install TrollStore with misaka
-======
-[Official Guide](https://ios.cfw.guide/installing-trollhelper-misaka/)
 
 Contributors
 ======
@@ -108,7 +109,7 @@ Private Testers
 
 • [Sugiuta](https://twitter.com/sugiuta): Repository & Tweaks;
 
-Repository Owners
+Repository Maintainers
 ======
 | Author | Repository |
 | --- | --- |
@@ -128,10 +129,6 @@ Repository Owners
 | [Coolwcat](https://twitter.com/coolwcat) | Coolwcat |
 | [MR X](https://twitter.com/mattiaskl) | MR X's Repo |
 
-
- <li>More tweaks coming...</li>
- <li>Misaka is offered at no charge; however, avoid falling victim to potential scammers</li>
-
 misakaProject
 =============
 License information for the libraries used is listed within the app.
@@ -139,4 +136,4 @@ License information for the libraries used is listed within the app.
 
 This README.md was created by [Phuc Do](https://twitter.com/dobabaophuc) and [HackZy](https://twitter.com/hackzy01). 
 
-© misakaProject All Right Reserved.
+© misakaProject 2023 All Right Reserved.
