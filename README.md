@@ -10,8 +10,6 @@ iOS customisation tool for KFD & MDC
   <a href="https://bento.me/straight-tamago"><img src="https://img.shields.io/static/v1?style=social&message=@straight-tamago&color=768CFF&logo=X&logoColor=000000&label=" /></a>
   <a href="https://x.com/little_34306"><img src="https://img.shields.io/static/v1?style=social&message=@Little_34306&color=768CFF&logo=X&logoColor=000000&label=" /></a>
 
-  
-<a href='https://discord.gg/KSExeZVAGX'><img align='center' alt='Discord' src='https://img.shields.io/discord/950850315601711176?color=36309d&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge'></a>
 
 </div>
 <div class="clear"></div>
@@ -63,9 +61,10 @@ Support
 **If you need any help, ask us on Discord:**
 
 • Misaka Support ✨ **(Sever 1)**: [Join](https://discord.gg/KSExeZVAGX)
+<a href='https://discord.gg/KSExeZVAGX'><img align='center' alt='Discord' src='https://img.shields.io/discord/950850315601711176?color=36309d&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge'></a>
 
 • Misaka Support ✨ **(Sever 2)**: [Join](https://discord.gg/mVrPxY3X6W)
-
+<a href='https://discord.gg/mVrPxY3X6W'><img align='center' alt='Discord' src='https://img.shields.io/discord/950850315601711176?color=36309d&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge'></a>
 
 Contributors
 ======
