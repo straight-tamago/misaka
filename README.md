@@ -12,7 +12,7 @@ iOS customisation tool for KFD & MDC
 
 
 <a href='https://bento.me/straight-tamago'><img align='center' alt='Twitter' src='https://img.shields.io/twitter/follow/straight-tamago?color=36309d&label=TWITTER&logo=TWITTER&logoColor=white&style=for-the-badge'></a>
-
+<a href='https://x.com/little_34306'><img align='center' alt='Twitter' src='https://img.shields.io/twitter/follow/little_34306?color=36309d&label=TWITTER&logo=TWITTER&logoColor=white&style=for-the-badge'></a>
 
 </div>
 <div class="clear"></div>
