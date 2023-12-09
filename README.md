@@ -11,7 +11,7 @@ iOS customisation tool for KFD & MDC
   <a href="https://x.com/little_34306"><img src="https://img.shields.io/static/v1?style=social&message=@Little_34306&color=768CFF&logo=X&logoColor=000000&label=" /></a>
 
 
-<a href='https://bento.me/straight-tamago'><img align='center' alt='Twitter' src='https://img.shields.io/twitter/follow/straight-tamago?color=36309d&label=TWITTER&logo=TWITTER&logoColor=white&style=for-the-badge'></a>
+<a href='https://bento.me/straight-tamago'><img align='center' alt='straight-tamago' src='https://img.shields.io/twitter/follow/straight-tamago?color=36309d&label=TWITTER&logo=TWITTER&logoColor=white&style=for-the-badge'></a>
 <a href='https://x.com/little_34306'><img align='center' alt='Twitter' src='https://img.shields.io/twitter/follow/little_34306?color=36309d&label=TWITTER&logo=TWITTER&logoColor=white&style=for-the-badge'></a>
 
 </div>
