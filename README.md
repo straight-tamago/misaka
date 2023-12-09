@@ -60,10 +60,12 @@ Support
 =======
 **If you need any help, ask us on Discord:**
 
-• Misaka Support ✨ **(Sever 1)**: [Join](https://discord.gg/KSExeZVAGX)
+• Misaka Support ✨ **(Sever 1)**:
+
 <a href='https://discord.gg/KSExeZVAGX'><img align='center' alt='Discord' src='https://img.shields.io/discord/950850315601711176?color=36309d&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge'></a>
 
-• Misaka Support ✨ **(Sever 2)**: [Join](https://discord.gg/mVrPxY3X6W)
+• Misaka Support ✨ **(Sever 2)**:
+
 <a href='https://discord.gg/mVrPxY3X6W'><img align='center' alt='Discord' src='https://img.shields.io/discord/950850315601711176?color=36309d&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge'></a>
 
 Contributors
