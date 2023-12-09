@@ -7,8 +7,8 @@ iOS customisation tool for KFD & MDC
 <div>
   <a href="https://github.com/straight-tamago/misaka/releases"><img src="https://img.shields.io/github/downloads/straight-tamago/misaka/total?color=d774d5" /></a>
   <a href="https://github.com/straight-tamago/misaka/releases/latest"><img src="https://img.shields.io/github/v/release/straight-tamago/misaka?color=d774d5" /></a>
-<a href='https://bento.me/straight-tamago'><img align='center' alt='straight-tamago' src='https://img.shields.io/twitter/follow/straight-tamago?color=36309d&label=straight-tamago&logo=TWITTER&logoColor=white&style=flat'></a>
-<a href='https://x.com/little_34306'><img align='center' alt='Twitter' src='https://img.shields.io/twitter/follow/little_34306?color=36309d&label=little_34306&logo=TWITTER&logoColor=white&style=flat'></a>
+<a href='https://bento.me/straight-tamago'><img align='center' alt='straight-tamago' src='https://img.shields.io/twitter/follow/straight-tamago?color=36309d&label=straight-tamago&logo=TWITTER&logoColor=white'></a>
+<a href='https://x.com/little_34306'><img align='center' alt='Twitter' src='https://img.shields.io/twitter/follow/little_34306?color=36309d&label=little_34306&logo=TWITTER&logoColor=white'></a>
 
 </div>
 <div class="clear"></div>
