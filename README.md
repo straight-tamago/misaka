@@ -74,6 +74,8 @@ Contributors
 
 • [Little 34306](https://twitter.com/Little_34306): KFD Exploit & Offsets;
 
+• [Lavochka](https://twitter.com/lavochka04): dylib injection;
+
 • [AppInstaller iOS](https://twitter.com/AppInstalleriOS): File Stuff & KFD Offsets;
 
 • [uz.ra](https://twitter.com/ChromiumCandy): UI Design;
