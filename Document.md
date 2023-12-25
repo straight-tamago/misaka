@@ -67,6 +67,7 @@ Application / %Misaka_AppUUID{'org.mozilla.ios.Firefox', 'Bundle'}%
 
 ### `%Misaka_Segment{Name: 'target file name', [(Identifier: 'iOSver', Value: '16')]}%`
 ### `%Misaka_Segment{Name: 'target file name', [(Identifier: 'Notched', Value: 'Yes')]}%`
+### `%Misaka_Segment{Name: 'target file name', [(Identifier: 'DeviceType', Value: 'iPad')]}%`
 ### `%Misaka_Segment{Name: 'target file name', [(Identifier: 'Option', Value: 'Option1')]}%`
 
 ```
