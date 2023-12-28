@@ -44,7 +44,7 @@ Download
 
 *Misaka is available at no cost, you can install it through AltStore, Sideloadly or TrollStore*
 
-
+You can also use this service to install it.
 https://flekstore.com
 
 Screenshots
