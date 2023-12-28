@@ -46,7 +46,7 @@ Download
 
 
 You can also use this service to install it.
-https://flekstore.com
+http://flekstore.com/MISAKA
 
 Screenshots
 ==========
