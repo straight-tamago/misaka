@@ -80,6 +80,8 @@ Contributors
 
 • [Lavochka](https://twitter.com/lavochka04): dylib injection;
 
+• [Lrdsnow](https://github.com/Lrdsnow): KFD;
+
 • [AppInstaller iOS](https://twitter.com/AppInstalleriOS): File Stuff & KFD Offsets;
 
 • [uz.ra](https://twitter.com/ChromiumCandy): UI Design;
