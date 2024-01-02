@@ -123,24 +123,6 @@ Private Testers
 
 • [Sugiuta](https://twitter.com/sugiuta): Repository & Tweaks;
 
-
-* ダウンロード数  
-![Package Control](https://img.shields.io/packagecontrol/dt/:登録しているプラグイン名.svg)
-
-* 一週間のダウンロード数  
-![Package Control](https://img.shields.io/packagecontrol/dw/:登録しているプラグイン名.svg)
-
-* 一ヶ月のダウンロード数  
-![Package Control](https://img.shields.io/packagecontrol/dm/:登録しているプラグイン名.svg)
-
-* 一日のダウンロード数  
-![Package Control](https://img.shields.io/packagecontrol/dd/:登録しているプラグイン名.svg)
-
-
-* 詳細なダウンロード数（Dynamic利用）
-![ダウンロード数](https://img.shields.io/badge/dynamic/json.svg?label=詳細なダウンロード数&colorB=green&query=$.installs.total&uri=https%3A%2F%2Fpackagecontrol.io%2Fpackages%2F:登録しているプラグイン名.json&maxAge=3600)
-
-
 Repository Maintainers
 ======
 | Author | Repository |
