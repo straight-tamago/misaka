@@ -88,6 +88,10 @@ Contributors
 
 • [LeminLimez](https://twitter.com/LeminLimez): Settings Page;
 
+• [opa334](https://x.com/opa334dev): TrollStore;
+
+• [Alfie](https://github.com/alfiecg24): TrollStore;
+
 • [haxi0sm](https://twitter.com/haxi0sm): Icon Design & Recommended Page;
 
 • [Serena](https://twitter.com/CoreSerena): PrivateKits;
