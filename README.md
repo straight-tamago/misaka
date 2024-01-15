@@ -3,7 +3,7 @@
 </p>
 
 # Misaka
-iOS customisation tool for KFD & MDC
+iOS & tvOS customisation tool for KFD & MDC
 <div>
   <a href="https://github.com/straight-tamago/misaka/releases"><img src="https://img.shields.io/github/downloads/straight-tamago/misaka/total?color=d774d5" /></a>
   <a href="https://github.com/straight-tamago/misaka/releases/latest"><img src="https://img.shields.io/github/v/release/straight-tamago/misaka?color=d774d5" /></a>
