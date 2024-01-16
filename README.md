@@ -31,6 +31,7 @@ The purpose of this application is to give iPhone users the ability to customise
 At this time we have over 24 default repositories and more than 400 tweaks available.
 
 *Misaka is offered at no charge if somebody tried to sell it to you, report it*
+
 <br>
 
 ## Versions Supported
