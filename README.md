@@ -21,7 +21,7 @@
   <a href="">Video Preview</a> | <a href="">Documentation</a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
 <table>
 <tbody>
 <td align="center">
@@ -31,7 +31,7 @@
 </td>
 </tbody>
 </table>
-</div>
+</div> -->
 The purpose of this application is to give iPhone users the ability to customise their phones without a jailbreak.
 
 At this time we have over 24 default repositories and more than 400 tweaks available.
