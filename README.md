@@ -21,17 +21,17 @@
   <a href="">Video Preview</a> | <a href="">Documentation</a>
 </p>
 
-<!-- <div align="center">
+<div align="center">
 <table>
 <tbody>
 <td align="center">
 <img width="2000" height="0" alt="" aria-hiden><br>
-<sub>Made possible by my <a href="https://github.com/straight-tamago/misaka">Sponsor Program 💖</a></sub><br>
+<!-- <sub>Made possible by my <a href="https://github.com/straight-tamago/misaka">Sponsor Program 💖</a></sub><br> -->
 <img width="2000" height="0" alt="" aria-hiden>
 </td>
 </tbody>
 </table>
-</div> -->
+</div>
 The purpose of this application is to give iPhone users the ability to customise their phones without a jailbreak.
 
 At this time we have over 24 default repositories and more than 400 tweaks available.
