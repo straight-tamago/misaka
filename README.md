@@ -1,4 +1,3 @@
-# Misaka
 <br>
 <p align="center">
 <a href="https://github.com/straight-tamago/misaka" target="_blank">
