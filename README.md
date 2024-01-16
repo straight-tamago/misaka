@@ -13,10 +13,10 @@
 <a href='https://bento.me/straight-tamago'><img align='center' alt='straight-tamago' src='https://img.shields.io/twitter/follow/straight-tamago?color=36309d&label=straight-tamago&logo=TWITTER&logoColor=white&style=flat'></a>
 <a href='https://x.com/little_34306'><img align='center' alt='Twitter' src='https://img.shields.io/twitter/follow/little_34306?color=36309d&label=little_34306&logo=TWITTER&logoColor=white&style=flat'></a>
 </p>
-<!-- 
+
 <p align="center">
-  <a href="">Video Preview</a> | <a href="">Documentation</a>
-</p> -->
+  <a href="https://github.com/straight-tamago/misaka/blob/main/README.md">English</a> | <a href="https://github.com/straight-tamago/misaka/blob/main/README_JA.md">日本語</a>
+</p>
 
 <br>
 <br>
