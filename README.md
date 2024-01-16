@@ -73,6 +73,7 @@ http://flekstore.com/MISAKA
 
 [Official Guide](https://ios.cfw.guide/installing-trollhelper-misaka/)
 
+サーモン食べる？
 
 ## Repositories
 
@@ -122,7 +123,6 @@ http://flekstore.com/MISAKA
 • [**ginsudev**](https://twitter.com/ginsudev): MDC Exploit Code;
 • [**WDBFontOverwrite**](https://github.com/ginsudev/CVE-2022-46689): MDC Exploit Code;
 • [**Ian Beer of Project Zero**](https://twitter.com/i41nbeer): MDC Exploit Code;
-
 
 ## License
 License information for the libraries used is listed within the app.
