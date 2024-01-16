@@ -44,7 +44,7 @@
 <br>
 
 ## ダウンロード
-<h3>最新版のミサカはこちらからダウンロードできます。</h3>
+<h3>最新版はこちらからダウンロードできます。</h3>
 
 [ipaのダウンロードはこちら](https://github.com/straight-tamago/misaka/releases/latest)
 
