@@ -95,34 +95,34 @@ http://flekstore.com/MISAKA
 
 ## プライベートテスター
 
-• [**roeegh**](https://twitter.com/roeegh): Repository & Tweaks;
-• [**Coolwcat**](https://twitter.com/coolwcat): Repository & Tweaks;
-• [**Little 34306**](https://twitter.com/Little_34306): Repository & Tweaks;
-• [**ichitaso**](https://twitter.com/ichitaso): Repository & Tweaks;
-• [**YangJiii**](https://twitter.com/duongduong0908): Repository & Tweaks;
+• [**roeegh**](https://twitter.com/roeegh): リポジトリとTweaks;
+• [**Coolwcat**](https://twitter.com/coolwcat): リポジトリとTweaks;
+• [**Little 34306**](https://twitter.com/Little_34306): リポジトリとTweaks;
+• [**ichitaso**](https://twitter.com/ichitaso): リポジトリとTweaks;
+• [**YangJiii**](https://twitter.com/duongduong0908): リポジトリとTweaks;
 • [**fall20c**](https://twitter.com/fall20c): Tweaks;
-• [**Sugiuta**](https://twitter.com/sugiuta): Repository & Tweaks;
+• [**Sugiuta**](https://twitter.com/sugiuta): リポジトリとTweaks;
 
 
 ## 貢献者
 
-• [**straight-tamago**](https://twitter.com/straight_tamago): Lead Developer;
-• [**Little 34306**](https://twitter.com/Little_34306): KFD Exploit & Offsets;
+• [**straight-tamago**](https://twitter.com/straight_tamago): 主要開発者;
+• [**Little 34306**](https://twitter.com/Little_34306): KFDエクスプロイトとオフセット;
 • [**Lavochka**](https://twitter.com/lavochka04): dylib injection;
-• [**AppInstaller iOS**](https://twitter.com/AppInstalleriOS): File Stuff & KFD Offsets;
-• [**uz.ra**](https://twitter.com/ChromiumCandy): UI Design;
-• [**LeminLimez**](https://twitter.com/LeminLimez): Settings Page;
+• [**AppInstaller iOS**](https://twitter.com/AppInstalleriOS): ファイルスタッフとKFDオフセット;
+• [**uz.ra**](https://twitter.com/ChromiumCandy): UIデザイン;
+• [**LeminLimez**](https://twitter.com/LeminLimez): 設定ページ;
 • [**opa334**](https://x.com/opa334dev): TrollStore;
 • [**Alfie**](https://github.com/alfiecg24): TrollStore;
-• [**haxi0sm**](https://twitter.com/haxi0sm): Icon Design & Recommended Page;
+• [**haxi0sm**](https://twitter.com/haxi0sm): アイコンデザインと推奨ページ;
 • [**Serena**](https://twitter.com/CoreSerena): PrivateKits;
-• [**htrowii**](https://twitter.com/htrowii): KFD Exploit Code;
-• [**wh1te4ever**](https://twitter.com/wh1te4ever): KFD Exploit Code;
-• [**p0up0u**](https://twitter.com/_p0up0u_): KFD Exploit Code;
-• [**zhuowei**](https://twitter.com/zhuowei): MDC Exploit Code;
-• [**ginsudev**](https://twitter.com/ginsudev): MDC Exploit Code;
-• [**WDBFontOverwrite**](https://github.com/ginsudev/CVE-2022-46689): MDC Exploit Code;
-• [**Ian Beer of Project Zero**](https://twitter.com/i41nbeer): MDC Exploit Code;
+• [**htrowii**](https://twitter.com/htrowii): KFD エクスプロイトコード;
+• [**wh1te4ever**](https://twitter.com/wh1te4ever): KFD エクスプロイトコード;
+• [**p0up0u**](https://twitter.com/_p0up0u_): KFD エクスプロイトコード;
+• [**zhuowei**](https://twitter.com/zhuowei): MDC エクスプロイトコード;
+• [**ginsudev**](https://twitter.com/ginsudev): MDC エクスプロイトコード;
+• [**WDBFontOverwrite**](https://github.com/ginsudev/CVE-2022-46689): MDC エクスプロイトコード;
+• [**Ian Beer of Project Zero**](https://twitter.com/i41nbeer): MDC エクスプロイトコード;
 
 ## ライセンス
 使用されるライブラリのライセンス情報は、アプリ内にリストされています。
