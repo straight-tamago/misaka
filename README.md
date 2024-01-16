@@ -27,7 +27,7 @@
 <tbody>
 <td align="center">
 <img width="2000" height="0" alt="" aria-hiden><br>
-<sub>Discord Support<a href="https://discord.gg/KSExeZVAGX">Discord Support 💖</a></sub><br>
+<sub><a href="https://discord.gg/KSExeZVAGX">Discord Support 💖</a></sub><br>
 <img width="2000" height="0" alt="" aria-hiden>
 </td>
 </tbody>
