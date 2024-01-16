@@ -1,7 +1,7 @@
 <br>
 <p align="center">
 <a href="https://github.com/straight-tamago/misaka" target="_blank">
-<img src=https://cdn.discordapp.com/attachments/1180087812754788394/1196646659090813098/misaka-2-2.png?ex=65b8630c&is=65a5ee0c&hm=d42f25052404e5f6bf01affe671db8a4c2291dcb72c6175c6ee8f9e18ded176a&" alt="Misaka" height="350" width="350"/>
+<img src=https://cdn.discordapp.com/attachments/1180087812754788394/1196647185736020128/misaka-2-2_waifu2x_art_scan_noise3.png" alt="Misaka" height="350" width="350"/>
 </a>
 </p>
 
