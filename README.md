@@ -41,6 +41,8 @@ At this time we have over 24 default repositories and more than 400 tweaks avail
 
 17.0 & up can use PiP tweaks
 
+<br>
+
 ## Download
 <h3>You can download the latest version of misaka from here:</h3>
 
@@ -55,6 +57,7 @@ http://flekstore.com/MISAKA
 <p align="left">
   <img src="https://media.discordapp.net/attachments/1157757093097521162/1181245992822128640/out.png" alt="misaka" width="MISAKA" height="600"/>
 </p>
+<br>
 
 ## Join Discord Support 🍉
 
