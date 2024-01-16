@@ -5,7 +5,7 @@
 </a>
 </p>
 <p align="center"><b>iOS</b> & <b>tvOS</b> customisation tool for <b>KFD</b> & <b>MDC</b></p>
-<p align="center">iOSおよびtvOSのカスタマイズツール（KFD/MDC向け）</p>
+<p align="center"><b>iOS</b>および<b>tvOS</b>のカスタマイズツール（KFD/MDC向け）</p>
 
 <p align="center">
 <a href="https://github.com/straight-tamago/misaka/releases/latest"><img src="https://img.shields.io/github/v/release/straight-tamago/misaka?color=d774d5" /></a>
