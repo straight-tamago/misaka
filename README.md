@@ -73,7 +73,7 @@ http://flekstore.com/MISAKA
 
 [Official Guide](https://ios.cfw.guide/installing-trollhelper-misaka/)
 
-サーモン食べる？
+まぐろ食べる
 
 ## Repositories
 
