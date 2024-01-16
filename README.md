@@ -32,6 +32,7 @@ At this time we have over 24 default repositories and more than 400 tweaks avail
 
 *Misaka is offered at no charge if somebody tried to sell it to you, report it*
 
+<br>
 ## Versions Supported
 | iOS Versions | MDC | KFD |
 | - | - | - |
