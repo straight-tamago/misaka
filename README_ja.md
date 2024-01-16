@@ -5,6 +5,7 @@
 </a>
 </p>
 <p align="center"><b>iOS</b> & <b>tvOS</b> customisation tool for <b>KFD</b> & <b>MDC</b></p>
+<p align="center">iOSおよびtvOSのカスタマイズツール（KFD/MDC向け）</p>
 
 <p align="center">
 <a href="https://github.com/straight-tamago/misaka/releases/latest"><img src="https://img.shields.io/github/v/release/straight-tamago/misaka?color=d774d5" /></a>
@@ -22,16 +23,16 @@
 <br>
 
 
-The purpose of this application is to give iPhone users the ability to customise their phones without a jailbreak.
+このアプリケーションの目的は、iPhoneユーザーが脱獄せずにiOSをカスタマイズできるようにすることです。
 
-At this time we have over 24 default repositories and more than 400 tweaks available.
+現時点では、24 を超えるデフォルト リポジトリと 400 を超える調整が利用可能です。
 
-*Misaka is offered at no charge if somebody tried to sell it to you, report it*
+*Misakaは無料で提供されています誰かがあなたにそれを販売しようとした場合、それを報告してください*
 
 <br>
 
-## Versions Supported
-| iOS Versions | MDC | KFD |
+## サポートされているバージョン
+| iOSバージョン | MDC | KFD |
 | - | - | - |
 | 15.0 - 15.7.1 | ✓ | - |
 | 15.7.2 - 15.7.6 | - | ✓ |
@@ -39,19 +40,19 @@ At this time we have over 24 default repositories and more than 400 tweaks avail
 | 16.2 - 16.6.1 | - | ✓ |
 | 17.0 & up | - | - |
 
-17.0 & up can use PiP tweaks
+17.0以上はPiPの微調整を使用できます
 
 <br>
 
-## Download
-<h3>You can download the latest version of misaka from here:</h3>
+## ダウンロード
+<h3>最新版のミサカはこちらからダウンロードできます。</h3>
 
-[Download IPA Here](https://github.com/straight-tamago/misaka/releases/latest)
+[ipaのダウンロードはこちら](https://github.com/straight-tamago/misaka/releases/latest)
 
-*Misaka is available at no cost, you can install it through AltStore, Sideloadly or TrollStore*
+*Misakaは無料で利用でき、AltStore、Sideloadly、またはTrollStoreからインストールできます*
 
 
-You can also use this service to install it.
+このサービスを使用してインストールすることもできます。
 http://flekstore.com/MISAKA
 
 <p align="left">
@@ -59,23 +60,23 @@ http://flekstore.com/MISAKA
 </p>
 <br>
 
-## Join Discord Support 🍉
+## Discordサポートに参加する 🍉
 
-• Misaka Support ✨ **(Sever 1)**:
+• Misaka Support ✨ **(Server 1)**:
 
 <a href='https://discord.gg/KSExeZVAGX'><img align='center' alt='Discord' src='https://img.shields.io/discord/1156843198799421490?color=36309d&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge'></a>
 
-• Misaka Support ✨ **(Sever 2)**:
+• Misaka Support ✨ **(Server 2)**:
 
 <a href='https://discord.gg/mVrPxY3X6W'><img align='center' alt='Discord' src='https://img.shields.io/discord/1074625970029477919?color=36309d&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge'></a>
 
-### Installing TrollStore with misaka
+### misakaでTrollStoreをインストールする
 
-[Official Guide](https://ios.cfw.guide/installing-trollhelper-misaka/)
+[公式ガイド](https://ios.cfw.guide/installing-trollhelper-misaka/)
 
 まぐろ食べる
 
-## Repositories
+## リポジトリ
 
 - [**misakaProject**](https://discord.gg/KSExeZVAGX) - misaka.app
 - [**HackZy**](https://twitter.com/hackzy01) - Aurora
@@ -93,7 +94,7 @@ http://flekstore.com/MISAKA
 - [**Coolwcat**](https://twitter.com/coolwcat) - Coolwcat
 - [**MR X**](https://twitter.com/mattiaskl) - MR X's Repo
 
-## Private Testers
+## プライベートテスター
 
 • [**roeegh**](https://twitter.com/roeegh): Repository & Tweaks;
 • [**Coolwcat**](https://twitter.com/coolwcat): Repository & Tweaks;
@@ -104,7 +105,7 @@ http://flekstore.com/MISAKA
 • [**Sugiuta**](https://twitter.com/sugiuta): Repository & Tweaks;
 
 
-## Contributors
+## 貢献者
 
 • [**straight-tamago**](https://twitter.com/straight_tamago): Lead Developer;
 • [**Little 34306**](https://twitter.com/Little_34306): KFD Exploit & Offsets;
@@ -124,7 +125,7 @@ http://flekstore.com/MISAKA
 • [**WDBFontOverwrite**](https://github.com/ginsudev/CVE-2022-46689): MDC Exploit Code;
 • [**Ian Beer of Project Zero**](https://twitter.com/i41nbeer): MDC Exploit Code;
 
-## License
-License information for the libraries used is listed within the app.
+## ライセンス
+使用されるライブラリのライセンス情報は、アプリ内にリストされています。
 
 MIT License © 2024 [straight-tamago](https://github.com/straight-tamago)
