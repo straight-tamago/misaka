@@ -4,8 +4,7 @@
 <img src="https://cdn.discordapp.com/attachments/1180087812754788394/1196649466120384532/misaka-2-2_waifu2x_art_scan_noise3.png?ex=65b865a9&is=65a5f0a9&hm=24b6f8de315a5baed73e42685519690103b1e88c161ac68a55c9b8eb20d17b68&" alt="Misaka" height="220" width="250"/>
 </a>
 </p>
-<p align="center"><b>iOS</b> & <b>tvOS</b> customisation tool for <b>KFD</b> & <b>MDC</b></p>
-<p align="center"><b>iOS</b>および<b>tvOS</b>のカスタマイズツール（KFD/MDC向け）</p>
+<p align="center">iOSおよびtvOSのカスタマイズツール（KFD/MDC向け）</p>
 
 <p align="center">
 <a href="https://github.com/straight-tamago/misaka/releases/latest"><img src="https://img.shields.io/github/v/release/straight-tamago/misaka?color=d774d5" /></a>
