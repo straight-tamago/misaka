@@ -1,30 +1,44 @@
-<p align="left">
-  <img align="left" height="175" src="https://cdn.discordapp.com/attachments/1157757093097521162/1181224754993184848/App_Store-removebg-preview.png" alt="misaka" style="float: left; border-radius: 10px;"/>
+<br>
+<p align="center">
+<a href="https://github.com/straight-tamago/misaka" target="_blank">
+<img src="https://cdn.discordapp.com/attachments/1157757093097521162/1181224754993184848/App_Store-removebg-preview.png" alt="Misaka" height="250" width="250"/>
+</a>
 </p>
 
-# Misaka
-iOS & tvOS customisation tool for KFD & MDC
-<div>
-  <a href="https://github.com/straight-tamago/misaka/releases"><img src="https://img.shields.io/github/downloads/straight-tamago/misaka/total?color=d774d5" /></a>
-  <a href="https://github.com/straight-tamago/misaka/releases/latest"><img src="https://img.shields.io/github/v/release/straight-tamago/misaka?color=d774d5" /></a>
-  
+<p align="center">
+<b>iOS</b> & <b>tvOS</b> customisation tool for <b>KFD</b> & <b>MDC</b>
+</p>
+
+<p align="center">
+<a href="https://github.com/straight-tamago/misaka/releases/latest"><img src="https://img.shields.io/github/v/release/straight-tamago/misaka?color=d774d5" /></a>
+<a href="https://github.com/straight-tamago/misaka/releases"><img src="https://img.shields.io/github/downloads/straight-tamago/misaka/total?color=d774d5" /></a>
+<br>
 <a href='https://bento.me/straight-tamago'><img align='center' alt='straight-tamago' src='https://img.shields.io/twitter/follow/straight-tamago?color=36309d&label=straight-tamago&logo=TWITTER&logoColor=white&style=flat'></a>
 <a href='https://x.com/little_34306'><img align='center' alt='Twitter' src='https://img.shields.io/twitter/follow/little_34306?color=36309d&label=little_34306&logo=TWITTER&logoColor=white&style=flat'></a>
+</p>
 
+<p align="center">
+  <a href="">Video Preview</a> | <a href="">Documentation</a>
+</p>
+
+<div align="center">
+<table>
+<tbody>
+<td align="center">
+<img width="2000" height="0" alt="" aria-hiden><br>
+<sub>Made possible by my <a href="https://github.com/straight-tamago/misaka">Sponsor Program 💖</a></sub><br>
+<img width="2000" height="0" alt="" aria-hiden>
+</td>
+</tbody>
+</table>
 </div>
-<div class="clear"></div>
-
-#
-About
-======
 The purpose of this application is to give iPhone users the ability to customise their phones without a jailbreak.
 
 At this time we have over 24 default repositories and more than 400 tweaks available.
 
 *Misaka is offered at no charge if somebody tried to sell it to you, report it*
-#
-Versions Supported
-======
+
+## Versions Supported
 | iOS Versions | MDC | KFD |
 | - | - | - |
 | 15.0 - 15.7.1 | ✓ | - |
@@ -35,9 +49,7 @@ Versions Supported
 
 17.0 & up can use PiP tweaks
 
-
-Download
-======
+## Download
 <h3>You can download the latest version of misaka from here:</h3>
 
 [Download IPA Here](https://github.com/straight-tamago/misaka/releases/latest)
@@ -48,21 +60,11 @@ Download
 You can also use this service to install it.
 http://flekstore.com/MISAKA
 
-Screenshots
-==========
-
 <p align="left">
   <img src="https://media.discordapp.net/attachments/1157757093097521162/1181245992822128640/out.png" alt="misaka" width="MISAKA" height="600"/>
 </p>
 
-Installing TrollStore with misaka
-======
-[Official Guide](https://ios.cfw.guide/installing-trollhelper-misaka/)
-
-
-Support
-=======
-**If you need any help, ask us on Discord:**
+## Join Discord Support 🍉
 
 • Misaka Support ✨ **(Sever 1)**:
 
@@ -72,84 +74,62 @@ Support
 
 <a href='https://discord.gg/mVrPxY3X6W'><img align='center' alt='Discord' src='https://img.shields.io/discord/1074625970029477919?color=36309d&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge'></a>
 
-Contributors
-======
-• [straight-tamago](https://twitter.com/straight_tamago): Lead Developer;
+### Installing TrollStore with misaka
 
-• [Little 34306](https://twitter.com/Little_34306): KFD Exploit & Offsets;
+[Official Guide](https://ios.cfw.guide/installing-trollhelper-misaka/)
 
-• [Lavochka](https://twitter.com/lavochka04): dylib injection;
 
-• [AppInstaller iOS](https://twitter.com/AppInstalleriOS): File Stuff & KFD Offsets;
+## Repositories
 
-• [uz.ra](https://twitter.com/ChromiumCandy): UI Design;
+- [**misakaProject**](https://discord.gg/KSExeZVAGX) - misaka.app
+- [**HackZy**](https://twitter.com/hackzy01) - Aurora
+- [**EPOS**](https://twitter.com/RealEPOS) - EPOSbox
+- [**Phuc Do**](https://twitter.com/dobabaophuc) - PhucDo 3.0 ✨
+- [**ChromiumCandy**](https://twitter.com/ChromiumCandy) - Applicott
+- [**YangJiii**](https://twitter.com/duongduong0908) - YangJiii 🍉 2.0 Repo's
+- [**Hùng Anhh ❤️**](https://www.facebook.com/profile.php?id=100013250296791&mibextid=LQQJ4d) - Hùng Anhh ♡
+- [**RomLayVN**](https://t.me/romlayvn) - Ròm Lầy VN
+- [**roeegh**](https://twitter.com/roeegh) - Puck
+- [**Lemin**](https://github.com/leminlimez) - Lemin
+- [**DR.Themes**](https://x.com/UAE_AD1001) - DR.Themes
+- [**doraa**](https://twitter.com/d0ra727) - MeowRepo :3 #DMATK-KK-YH
+- [**tyler1029**](https://discord.gg/bbJAqj7np5) - tyler10290
+- [**Coolwcat**](https://twitter.com/coolwcat) - Coolwcat
+- [**MR X**](https://twitter.com/mattiaskl) - MR X's Repo
 
-• [LeminLimez](https://twitter.com/LeminLimez): Settings Page;
+## Private Testers
 
-• [opa334](https://x.com/opa334dev): TrollStore;
+• [**roeegh**](https://twitter.com/roeegh): Repository & Tweaks;
+• [**Coolwcat**](https://twitter.com/coolwcat): Repository & Tweaks;
+• [**Little 34306**](https://twitter.com/Little_34306): Repository & Tweaks;
+• [**ichitaso**](https://twitter.com/ichitaso): Repository & Tweaks;
+• [**YangJiii**](https://twitter.com/duongduong0908): Repository & Tweaks;
+• [**fall20c**](https://twitter.com/fall20c): Tweaks;
+• [**Sugiuta**](https://twitter.com/sugiuta): Repository & Tweaks;
 
-• [Alfie](https://github.com/alfiecg24): TrollStore;
 
-• [haxi0sm](https://twitter.com/haxi0sm): Icon Design & Recommended Page;
+## Contributors
 
-• [Serena](https://twitter.com/CoreSerena): PrivateKits;
+• [**straight-tamago**](https://twitter.com/straight_tamago): Lead Developer;
+• [**Little 34306**](https://twitter.com/Little_34306): KFD Exploit & Offsets;
+• [**Lavochka**](https://twitter.com/lavochka04): dylib injection;
+• [**AppInstaller iOS**](https://twitter.com/AppInstalleriOS): File Stuff & KFD Offsets;
+• [**uz.ra**](https://twitter.com/ChromiumCandy): UI Design;
+• [**LeminLimez**](https://twitter.com/LeminLimez): Settings Page;
+• [**opa334**](https://x.com/opa334dev): TrollStore;
+• [**Alfie**](https://github.com/alfiecg24): TrollStore;
+• [**haxi0sm**](https://twitter.com/haxi0sm): Icon Design & Recommended Page;
+• [**Serena**](https://twitter.com/CoreSerena): PrivateKits;
+• [**htrowii**](https://twitter.com/htrowii): KFD Exploit Code;
+• [**wh1te4ever**](https://twitter.com/wh1te4ever): KFD Exploit Code;
+• [**p0up0u**](https://twitter.com/_p0up0u_): KFD Exploit Code;
+• [**zhuowei**](https://twitter.com/zhuowei): MDC Exploit Code;
+• [**ginsudev**](https://twitter.com/ginsudev): MDC Exploit Code;
+• [**WDBFontOverwrite**](https://github.com/ginsudev/CVE-2022-46689): MDC Exploit Code;
+• [**Ian Beer of Project Zero**](https://twitter.com/i41nbeer): MDC Exploit Code;
 
-• [htrowii](https://twitter.com/htrowii): KFD Exploit Code;
 
-• [wh1te4ever](https://twitter.com/wh1te4ever): KFD Exploit Code;
-
-• [p0up0u](https://twitter.com/_p0up0u_): KFD Exploit Code;
-
-• [zhuowei](https://twitter.com/zhuowei): MDC Exploit Code;
-
-• [ginsudev](https://twitter.com/ginsudev): MDC Exploit Code;
-
-• [WDBFontOverwrite](https://github.com/ginsudev/CVE-2022-46689): MDC Exploit Code;
-
-• [Ian Beer of Project Zero](https://twitter.com/i41nbeer): MDC Exploit Code;
-
-Private Testers
-=====
-
-• [roeegh](https://twitter.com/roeegh): Repository & Tweaks;
-
-• [Coolwcat](https://twitter.com/coolwcat): Repository & Tweaks;
-
-• [Little 34306](https://twitter.com/Little_34306): Repository & Tweaks;
-
-• [ichitaso](https://twitter.com/ichitaso): Repository & Tweaks;
-
-• [YangJiii](https://twitter.com/duongduong0908): Repository & Tweaks;
-
-• [fall20c](https://twitter.com/fall20c): Tweaks;
-
-• [Sugiuta](https://twitter.com/sugiuta): Repository & Tweaks;
-
-Repository Maintainers
-======
-| Author | Repository |
-| --- | --- |
-| [misakaProject](https://discord.gg/KSExeZVAGX) | misaka.app |
-| [HackZy](https://twitter.com/hackzy01) | Aurora |
-| [EPOS](https://twitter.com/RealEPOS) | EPOSbox |
-| [Phuc Do](https://twitter.com/dobabaophuc) | PhucDo 3.0 ✨ |
-| [ChromiumCandy](https://twitter.com/ChromiumCandy) | Applicott |
-| [YangJiii](https://twitter.com/duongduong0908) | YangJiii 🍉 2.0 Repo's |
-| [Hùng Anhh ❤️](https://www.facebook.com/profile.php?id=100013250296791&mibextid=LQQJ4d) | Hùng Anhh ♡ |
-| [RomLayVN](https://t.me/romlayvn) | Ròm Lầy VN |
-| [roeegh](https://twitter.com/roeegh) | Puck |
-| [Lemin](https://github.com/leminlimez) | Lemin |
-| [DR.Themes](https://x.com/UAE_AD1001) | DR.Themes |
-| [doraa](https://twitter.com/d0ra727) | MeowRepo :3 #DMATK-KK-YH |
-| [tyler1029](https://discord.gg/bbJAqj7np5) | tyler10290 |
-| [Coolwcat](https://twitter.com/coolwcat) | Coolwcat |
-| [MR X](https://twitter.com/mattiaskl) | MR X's Repo |
-
-misakaProject
-=============
+## License
 License information for the libraries used is listed within the app.
 
-
-This README.md was created by [Phuc Do](https://twitter.com/dobabaophuc) and [HackZy](https://twitter.com/hackzy01). 
-
-© misakaProject 2023 All Right Reserved.
+MIT License © 2024 [straight-tamago](https://github.com/straight-tamago)
