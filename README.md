@@ -22,7 +22,10 @@
   <a href="">Video Preview</a> | <a href="">Documentation</a>
 </p> -->
 
-<img width="2000" height="100" alt="" aria-hiden><br>
+<br>
+<br>
+
+
 The purpose of this application is to give iPhone users the ability to customise their phones without a jailbreak.
 
 At this time we have over 24 default repositories and more than 400 tweaks available.
