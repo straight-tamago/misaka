@@ -34,7 +34,7 @@ At this time we have over 24 default repositories and more than 400 tweaks avail
 | iOS Versions | MDC | KFD |
 | - | - | - |
 | 15.0 - 15.7.1 | ✓ | - |
-| 15.7.2 - 15.7.6 | - | ✓ |
+| 15.7.2 - 15.7.6 | - | - |
 | 16.0 - 16.1.2 | ✓ | - |
 | 16.2 - 16.6.1 | - | ✓ |
 | 17.0 & up | - | - |
