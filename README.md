@@ -126,5 +126,6 @@ http://flekstore.com/MISAKA
 
 ## License
 License information for the libraries used is listed within the app.
+https://github.com/Lakr233/ColorfulX
 
 MIT License © 2024 [straight-tamago](https://github.com/straight-tamago)
