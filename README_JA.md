@@ -1,7 +1,7 @@
 <br>
 <p align="center">
 <a href="https://github.com/straight-tamago/misaka" target="_blank">
-<img src="https://cdn.discordapp.com/attachments/1180087812754788394/1196649466120384532/misaka-2-2_waifu2x_art_scan_noise3.png?ex=65b865a9&is=65a5f0a9&hm=24b6f8de315a5baed73e42685519690103b1e88c161ac68a55c9b8eb20d17b68&" alt="Misaka" height="220" width="250"/>
+<img src="https://raw.githubusercontent.com/straight-tamago/misaka/main/images/IMG_2235.png" alt="Misaka" height="220" width="250"/>
 </a>
 </p>
 <p align="center">iOSおよびtvOSのカスタマイズツール（KFD/MDC向け）</p>
@@ -54,7 +54,7 @@
 http://flekstore.com/MISAKA
 
 <p align="left">
-  <img src="https://media.discordapp.net/attachments/1157757093097521162/1181245992822128640/out.png" alt="misaka" width="MISAKA" height="600"/>
+  <img src="https://raw.githubusercontent.com/straight-tamago/misaka/main/images/IMG_2236.png" alt="misaka" width="MISAKA" height="600"/>
 </p>
 <br>
 
