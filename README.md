@@ -1,7 +1,7 @@
 <br>
 <p align="center">
 <a href="https://github.com/straight-tamago/misaka" target="_blank">
-<img src="https://raw.githubusercontent.com/straight-tamago/misaka/main/images/IMG_2235.png" alt="Misaka" height="220" width="250"/>
+<img src="https://raw.githubusercontent.com/straight-tamago/misaka/main/images/IMG_2235.png?a=a" alt="Misaka" height="220" width="250"/>
 </a>
 </p>
 <p align="center"><b>iOS</b> & <b>tvOS</b> customisation tool for <b>KFD</b> & <b>MDC</b></p>
